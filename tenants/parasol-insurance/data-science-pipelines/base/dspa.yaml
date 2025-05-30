@@ -28,7 +28,7 @@ spec:
       s3CredentialsSecret:
         accessKey: minio # Update with minio access key
         secretKey: minio123 # Update with minio secret key
-        secretName: minio-data-connection # Update with the secret name
+        secretName: minio # Update with the secret name
       scheme: http
   persistenceAgent:
     deploy: true
