@@ -14,4 +14,5 @@ stringData:
   AWS_S3_ENDPOINT: http://minio.object-datastore.svc.cluster.local:9000
   AWS_SECRET_ACCESS_KEY: minio123
   AWS_DEFAULT_REGION: east-1
+  AWS_S3_BUCKET: pipelines
 type: Opaque
