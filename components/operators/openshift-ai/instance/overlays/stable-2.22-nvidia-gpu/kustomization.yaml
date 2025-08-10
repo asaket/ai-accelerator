@@ -8,11 +8,11 @@ components:
   - ../../components/auth-with-authorino
   - ../../components/components-distributed-compute
   - ../../components/components-kserve
-  - ../../components/components-modelmesh
+  - ../../components/components-llamastack
   - ../../components/components-training
   - ../../components/components-trustyai
-  - ../../components/default-notebook-pvc-size
   - ../../components/dashboard-feature-hardware-profiles
+  - ../../components/default-notebook-pvc-size
   - ../../components/nvidia-gpu-hardware-profile
   - ../../components/idle-notebook-culling
   - ../../components/notebook-pod-sizes
